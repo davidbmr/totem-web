@@ -1,0 +1,6 @@
+version: "3"
+services:
+  web:
+    image: registry.gitlab.com/totem_frontend_web/totem_frontend_web:latest
+    ports:
+      - "8081:80"

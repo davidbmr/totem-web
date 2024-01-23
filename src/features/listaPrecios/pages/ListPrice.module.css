@@ -1,0 +1,27 @@
+.select_contain {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+.date_contain {
+display: grid;
+
+gap: 2rem;
+}
+
+.calendar__reset {
+  display: flex;
+flex-wrap: wrap;
+gap: 2rem;
+align-items: end;
+justify-content: center;
+
+}
+
+.btn__reset{
+  width: 20%;
+}
+
+
+/* FORM */
+
